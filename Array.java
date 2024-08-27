@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Array {
     public static void main(String[] args) {
         // Crear un arreglo de 1000 elementos
         int[] randomArray = new int[1000];
